@@ -1,0 +1,14 @@
+{
+  "name": "ShieldFive",
+  "url": "https://shieldfive.com/pricing?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=black-friday-2026",
+  "description": "Encrypted cloud storage: every file and filename is encrypted on your device before upload, so the server only stores ciphertext",
+  "category": "utilities",
+  "platforms": ["web", "android", "windows", "mac"],
+  "deal": "Up to 50% off the first year of annual plans, applied automatically",
+  "pricing": "subscription",
+  "price": { "regular": 96, "sale": 48, "currency": "EUR" },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-07",
+  "icon": "https://shieldfive.com/android-chrome-512x512.png"
+}
